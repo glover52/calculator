@@ -2,7 +2,7 @@ Calculator
 ---
 <img src="Logotype primary.png" width="60%" height="60%" />
 
-Refactored calculator code using [hooks](https://reactjs.org/docs/hooks-intro.html) that were introduced with React 16.8.
+Refactored calculator code using [hooks](https://reactjs.org/docs/hooks-intro.html) that were introduced with React 16.8. Forked from [github.com/ahfarmer](https://github.com/ahfarmer/calculator).
 
 
 Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
@@ -12,7 +12,7 @@ Created with *create-react-app*. See the [full create-react-app guide](https://g
 Try It
 ---
 
-[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
+[glover52.github.io/calculator](https://glover52.github.io/calculator)
 
 
 
